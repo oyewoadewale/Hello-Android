@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teens Summer Camp</string>
+    <string name="header">You are specially invited to;</string>
+    <string name="about">About;\n The Teens summer camp 2018 is specially designed for \n young adults between the age of 13 to 21, it\'s a special of inspiration, and impartation. Get ready for a great time of your life.</string>
+    <string name="date">Date;\n Monday 31st of July till Saturday 4th August 2018</string>
+    <string name="time">Time;\n 9am till 2pm Daily</string>
+    <string name="footer">....giving your life a meaning</string>
+    <string name="venue">Venue;\n 62, agboyi road Ogudu orioke</string>
+    <string name="phone">For more info please call;\n +2348185164402</string>
+    </resources>
